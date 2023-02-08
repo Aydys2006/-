@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\notebook\bin\Debug\net6.0\notebook.exe
+C:\Users\user\source\repos\notebook\bin\Debug\net6.0\notebook.deps.json
+C:\Users\user\source\repos\notebook\bin\Debug\net6.0\notebook.runtimeconfig.json
+C:\Users\user\source\repos\notebook\bin\Debug\net6.0\notebook.dll
+C:\Users\user\source\repos\notebook\bin\Debug\net6.0\notebook.pdb
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.AssemblyInfo.cs
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.dll
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\refint\notebook.dll
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.pdb
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\notebook.genruntimeconfig.cache
+C:\Users\user\source\repos\notebook\obj\Debug\net6.0\ref\notebook.dll
